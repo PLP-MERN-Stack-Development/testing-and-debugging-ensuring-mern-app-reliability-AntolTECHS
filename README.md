@@ -18,7 +18,6 @@ This project demonstrates **comprehensive testing and debugging strategies** inc
 - [Testing Approach and Coverage](#testing-approach-and-coverage)  
 - [Screenshots](#screenshots)  
 
----
 
 ## **Project Structure**
 
